@@ -1,1 +1,5 @@
-# uvv_bd1_cc1n
+# PSET1
+* Objetivos
+* [x] PowerArchitect
+* [x] PowerArchitect em PDF
+* [x] Código fonte em SQL
